@@ -1,6 +1,6 @@
 name: Build Obfuscate BPB Panel
 
-on:
+#on:
   push:
     branches:
       - main
